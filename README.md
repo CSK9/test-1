@@ -7,16 +7,16 @@
 
 # 마크다운 연습
 
-1. pull
+1. git pull
 
-3. push
+3. git push
 
-2. fetch
+2. git fetch
 
 `void main(int a)`
 
 ```c++
-void printString(string str)
+void function(string str)
 {
   return;
 }
