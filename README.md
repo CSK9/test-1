@@ -7,11 +7,12 @@
 
 # 마크다운 연습
 
-1. git pull
+* git pull
 
-3. git push
+* git push
+  * git push -u origin apple
 
-2. git fetch
+* git fetch
 
 `void main(int a)`
 
